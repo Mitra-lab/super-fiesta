@@ -1,2 +1,3 @@
 Hey there I am practicing git hub commands and testing it.
 Sample msg here
+creating branch locally using CLI
